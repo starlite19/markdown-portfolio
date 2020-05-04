@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- Anime
+  - Naruto
+  - One Piece
+  - etc
+- K-POP
+  - iKON
+  - TREASURE
+  - Red Velvet
+  - Blackpink
+- Korean Dramas
